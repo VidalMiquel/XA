@@ -1,2 +1,1 @@
-# XA
-Network project about Digital Twins application in domestic environments
+# Network project about Digital Twins application in domestic environments
